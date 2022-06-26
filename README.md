@@ -2,12 +2,12 @@
 This Bot To Get Info Of Telegram messages , Media , Channel id Group ID , Get your id and info in this bot [Mutyala Harshith](https://t.me/MutyalaHarshith)
 ## Mutyala Harshith
 <p align="center"><a href="https://github.com/TeleGraMaN/iDBoT"><img src="https://telegra.ph/file/236794ce4bb2213eaae1e.jpg"></a></p>
-<p align="center" > <img alt="GitHub Forks" src="https://img.shields.io/github/forks/TeleGraMaN/iDBoT?label=%F0%9F%8D%B4Forks&logoColor=blue&style=circle"> <img alt="GitHub Repo Stars" src="https://img.shields.io/github/stars/TeleGraMaN/iDBoT?label=%E2%AD%90%EF%B8%8FStars&logoColor=blue&style=circle"> </p>
-<p align="center" > <img alt="RepoSize" src="https://img.shields.io/github/repo-size/TeleGraMaN/iDBoT?label=🗃️ Repo Size&logoColor=blue&style=circle"></p>
+<p align="center" > <img alt="GitHub Forks" src="https://img.shields.io/github/forks/TeleGraMaN/MHiDBoT?label=%F0%9F%8D%B4Forks&logoColor=blue&style=circle"> <img alt="GitHub Repo Stars" src="https://img.shields.io/github/stars/TeleGraMaN/MHiDBoT?label=%E2%AD%90%EF%B8%8FStars&logoColor=blue&style=circle"> </p>
+<p align="center" > <img alt="RepoSize" src="https://img.shields.io/github/repo-size/TeleGraMaN/MHiDBoT?label=🗃️ Repo Size&logoColor=blue&style=circle"></p>
 
  ## 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TeleGraMaN&repo=iDBoT&theme=social)](https://github.com/TeleGraMaN/iDBoT&bg_color=grey)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TeleGraMaN&repo=MHiDBoT&theme=social)](https://github.com/TeleGraMaN/iDBoT&bg_color=grey)
 •  𝑻𝒉𝒊𝒔 𝑩𝒐𝑻 𝑪𝒂𝒏 𝑴𝒂𝒌𝒆 𝑰𝒅 𝑭𝒓𝒐𝒎 𝑪𝒉𝒂𝒏𝒏𝒆𝒍𝒔 𝑮𝒓𝒐𝒖𝒑𝒔 𝑩𝒐𝒕𝒔 𝑨𝒏𝒅 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑼𝒔𝒆𝒓𝒔
 𝑭𝒆𝒕𝒄𝒉 𝑰𝒅 & 𝑷𝒂𝒔𝒕𝒆 𝒀𝒐𝒖𝒓 𝑰𝒏𝒇𝒐 𝑶𝒓 𝑰𝑫
 
